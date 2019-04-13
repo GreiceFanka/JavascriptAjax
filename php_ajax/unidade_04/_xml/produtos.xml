@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<loja>
+    <produto>
+        <nomeproduto>Biscottis</nomeproduto>
+        <descricao>All-natural bite-sized biscuits.</descricao>
+        <codigobarra>789151 823800</codigobarra>
+        <tempoentrega>15</tempoentrega>
+        <precounitario>20.00</precounitario>
+        <estoque>100</estoque>
+        <imagemgrande>images/product_images/HoneyBiscotti_Big.jpg</imagemgrande>  
+    </produto>
+
+    <produto>
+        <nomeproduto>Organic Earl Grey</nomeproduto>
+        <descricao>Because once in a blue moon you might want something besides coffee. This blend of black and green teas is highly aromatic, rich and flavorful with a hint of light citrus.</descricao>
+        <codigobarra>789151 823798</codigobarra>
+        <tempoentrega>8</tempoentrega>
+        <precounitario>9.00</precounitario>
+        <estoque>1000</estoque>
+        <imagemgrande>images/product_images/EarlGreyTea_Big.jpg</imagemgrande>  
+    </produto>
+
+    <produto>
+        <nomeproduto>Sugar</nomeproduto>
+        <descricao>How many spoonfuls do you need? Crystallized from 100% organic sugar cane, and milled within 24 hours of harvest to ensure it's as fresh as our coffee beans.</descricao>
+        <codigobarra>789151 823797</codigobarra>
+        <tempoentrega>8</tempoentrega>
+        <precounitario>3.00</precounitario>
+        <estoque>500</estoque>
+        <imagemgrande>images/product_images/Sugar_Big.jpg</imagemgrande>   
+    </produto>
+
+    <produto>
+        <nomeproduto>Non-Diary Creamer</nomeproduto>
+        <descricao>If running out of milk or cream for your coffee is tantamount to a state of emergency, we suggest you stock up on these delicious non-dairy creamers just in case.</descricao>
+        <codigobarra>789151 823796</codigobarra>
+        <tempoentrega>5</tempoentrega>
+        <precounitario>3.00</precounitario>
+        <estoque>500</estoque>
+        <imagemgrande>images/product_images/NonDairyCreamer_Big.jpg</imagemgrande> 
+    </produto>
+
+    <produto>
+        <nomeproduto>Steel Mug</nomeproduto>
+        <descricao>Here's one way to make sure your coffee stays warm during a long commute. Made of lightweight metal alloy.</descricao>
+        <codigobarra>789151 823795</codigobarra>
+        <tempoentrega>15</tempoentrega>
+        <precounitario>21.00</precounitario>
+        <estoque>300</estoque>
+        <imagemgrande>images/product_images/SteelMug_Big.jpg</imagemgrande>  
+    </produto>
+
+    <produto>
+        <nomeproduto>Ceramic Mug</nomeproduto>
+        <descricao>Handcrafted by Colorado artisans. These generous mugs feature an opaque green satin glaze over classic stoneware.</descricao>
+        <codigobarra>789151 823799</codigobarra>
+        <tempoentrega>15</tempoentrega>
+        <precounitario>14.00</precounitario>
+        <estoque>80</estoque>
+        <imagemgrande>images/product_images/CeramicMug_Big.jpg</imagemgrande>   
+    </produto>
+
+    <produto>
+        <nomeproduto>Plastic Mug</nomeproduto>
+        <descricao>If you're a little klutzy in the morning, we recommend this shatter-proof, durable plastic commuter mug.</descricao>
+        <codigobarra>789151 823795</codigobarra>
+        <tempoentrega>8</tempoentrega>
+        <precounitario>7.00</precounitario>
+        <estoque>750</estoque>
+        <imagemgrande>images/product_images/PlasticMug_Big.jpg</imagemgrande>   
+    </produto>
+
+    <produto>
+        <nomeproduto>Thermometer</nomeproduto>
+        <descricao>Ideal for microwaving your coffee. With a stainless steel stem, large, easy-to-read digital display and case.</descricao>
+        <codigobarra>789151 823654</codigobarra>
+        <tempoentrega>30</tempoentrega>
+        <precounitario>3.00</precounitario>
+        <estoque>45</estoque>
+        <imagemgrande>images/product_images/Thermometer_Big.jpg</imagemgrande> 
+    </produto>
+
+    <produto>
+        <nomeproduto>Hype Filters</nomeproduto>
+        <descricao>Never resort to using papers towels when you're out of paper filters. This Gold-Tone filter is always ready.</descricao>
+        <codigobarra>789151 823655</codigobarra>
+        <tempoentrega>5</tempoentrega>
+        <precounitario>5.00</precounitario>
+        <estoque>50</estoque>
+        <imagemgrande>images/product_images/HypeFilters_Big.jpg</imagemgrande> 
+    </produto>
+
+    <produto>
+        <nomeproduto>Brave New World T-Shirt</nomeproduto>
+        <descricao>100% cotton. Available in black, mocha or white.</descricao>
+        <codigobarra>789151 823765</codigobarra>
+        <tempoentrega>5</tempoentrega>
+        <precounitario>12.00</precounitario>
+        <estoque>60</estoque>
+        <imagemgrande>images/product_images/TShirt_Big.jpg</imagemgrande>  
+    </produto>
+
+    <produto>
+        <nomeproduto>Brave Blend</nomeproduto>
+        <descricao>Grown on some of the highest peaks in Brazil, India, Kenya and Puerto Rico, this blend represents the best arabica beans the world has to offer.</descricao>
+        <codigobarra>789151 823765</codigobarra>
+        <tempoentrega>15</tempoentrega>
+        <precounitario>12.00</precounitario>
+        <estoque>100</estoque>
+        <imagemgrande>images/product_images/BraveBlend_Group_Big.jpg</imagemgrande>  
+    </produto>
+
+    <produto>
+        <nomeproduto>Brave New World Sweatshirt</nomeproduto>
+        <descricao>- Perfect for lazing around on a Sunday morning with the paper and a cup of your favorite blend. Pigment-dyed for lasting color. Ribbed cuff and bottom.</descricao>
+        <codigobarra>789151 823658</codigobarra>
+        <tempoentrega>15</tempoentrega>
+        <precounitario>21.00</precounitario>
+        <estoque>250</estoque>
+        <imagemgrande>images/product_images/Sweatshirt_Big.jpg</imagemgrande>  
+    </produto>
+
+    <produto>
+        <nomeproduto>Andes Baseball Cap</nomeproduto>
+        <descricao>You're groggy and need coffee right away. This is no time to worry about your hair. Throw on this cap and head to the nearest ANDES. Cotton, adjustable, available in two colors.</descricao>
+        <codigobarra>789151 823659</codigobarra>
+        <tempoentrega>5</tempoentrega>
+        <precounitario>14.00</precounitario>
+        <estoque>40</estoque>
+        <imagemgrande>images/product_images/Baseballcap_Big.jpg</imagemgrande>  
+    </produto>
+
+    <produto>
+        <nomeproduto>Andes Toque</nomeproduto>
+        <descricao>Style comes with a layer of Comfort Max lycra stretch material on the inside and a tasty ANDES logo on the outside.</descricao>
+        <codigobarra>789151 823564</codigobarra>
+        <tempoentrega>5</tempoentrega>
+        <precounitario>9.00</precounitario>
+        <estoque>80</estoque>
+        <imagemgrande>images/product_images/Toke_Big.jpg</imagemgrande> 
+    </produto>
+
+    <produto>
+        <nomeproduto>Audio CD</nomeproduto>
+        <descricao>Our very own coffee house collection, featuring poetry slams, soulful vocals and a generous helping of the blues.</descricao>
+        <codigobarra>789151 823732</codigobarra>
+        <tempoentrega>5</tempoentrega>
+        <precounitario>14.00</precounitario>
+        <estoque>10</estoque>
+        <imagemgrande>images/product_images/MusicCD_Big.jpg</imagemgrande>  
+    </produto>
+
+    <produto>
+        <nomeproduto>Year 1999 Blend</nomeproduto>
+        <descricao>Java, Mysore and Sumatra beans offer a mellow flavor to make all the Year 2000 hype more palatable.</descricao>
+        <codigobarra>789151 823455</codigobarra>
+        <tempoentrega>5</tempoentrega>
+        <precounitario>12.00</precounitario>
+        <estoque>45</estoque>
+        <imagemgrande>images/product_images/Year1999Blend_Group_Big.jpg</imagemgrande>  
+    </produto>
+
+    <produto>
+        <nomeproduto>Border Blend</nomeproduto>
+        <descricao>Columbia, Costa Rica and Estate Java beans offer a mellow flavor to make all the Year 2000 hype more palatable.</descricao>
+        <codigobarra>782341 823795</codigobarra>
+        <tempoentrega>5</tempoentrega>
+        <precounitario>12.00</precounitario>
+        <estoque>30</estoque>
+        <imagemgrande>images/product_images/BorderBlend_Group_Big.jpg</imagemgrande>   
+    </produto>
+
+    <produto>
+        <nomeproduto>Blond Blend</nomeproduto>
+        <descricao>Processed for lower levels of caffeine without reducing the integrity of this rich Costa Rica bean.</descricao>
+        <codigobarra>734561 823795</codigobarra>
+        <tempoentrega>5</tempoentrega>
+        <precounitario>12.00</precounitario>
+        <estoque>10</estoque>
+        <imagemgrande>images/product_images/BlondBlend_Group_Big.jpg</imagemgrande>  
+    </produto>
+
+    <produto>
+        <nomeproduto>Winter Blend</nomeproduto>
+        <descricao>- Columbia and Jamaica beans create a full-bodied, mellow, slightly nutty flavor.</descricao>
+        <codigobarra>798751 823795</codigobarra>
+        <tempoentrega>8</tempoentrega>
+        <precounitario>12.00</precounitario>
+        <estoque>5</estoque>
+        <imagemgrande>images/product_images/WinterBlend_Group_Big.jpg</imagemgrande>  
+    </produto>
+
+    <produto>
+        <nomeproduto>Chocolate Mocha Bars</nomeproduto>
+        <descricao>Very European and very decadent. Drop these milk chocolates into your coffee to release a rich mocha aroma and pool of hot chocolate.</descricao>
+        <codigobarra>123151 823795</codigobarra>
+        <tempoentrega>15</tempoentrega>
+        <precounitario>12.00</precounitario>
+        <estoque>25</estoque>
+        <imagemgrande>images/product_images/ChocolateMochaBars_Big.jpg</imagemgrande>    
+    </produto>
+
+    <produto>
+        <nomeproduto>Chocolate Covered Coffee Beans</nomeproduto>
+        <descricao>Made for all-nighters, afternoon lulls, and long drives. These are the times when you need a sweet jolt.</descricao>
+        <codigobarra>784561 823795</codigobarra>
+        <tempoentrega>30</tempoentrega>
+        <precounitario>5.00</precounitario>
+        <estoque>30</estoque>
+        <imagemgrande>images/product_images/ChocolateCoffeBeans_Big.jpg</imagemgrande>  
+    </produto>
+
+    <produto>
+        <nomeproduto>Breath Mints</nomeproduto>
+        <descricao>No one need know how many cups of coffee you consume in a day. Hide it well with these powerfully refreshing mints.</descricao>
+        <codigobarra>789151 823980</codigobarra>
+        <tempoentrega>30</tempoentrega>
+        <precounitario>2.00</precounitario>
+        <estoque>60</estoque>
+        <imagemgrande>images/product_images/BreathMints_Big.jpg</imagemgrande>  
+    </produto>
+</loja>

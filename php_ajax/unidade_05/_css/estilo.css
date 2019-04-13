@@ -1,0 +1,27 @@
+div#listagem {
+    width: 300px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    display: none;
+    margin-top:20px;
+}
+
+div#listagem ul {
+    margin:0;padding: 0;
+}
+
+div#listagem ul li {
+    list-style-type: none;
+    display: inline-block;
+    font-family: sans-serif;
+    font-size: 12px;
+}
+
+div#listagem ul li.nome {
+    width:240px;
+}
+
+div#listagem ul li.preco {
+    width:40px;
+}
